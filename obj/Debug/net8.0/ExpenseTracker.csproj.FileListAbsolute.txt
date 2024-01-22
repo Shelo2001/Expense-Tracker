@@ -262,3 +262,4 @@ C:\Users\Shelia\source\repos\ExpenseTracker\ExpenseTracker\bin\Debug\net8.0\runt
 C:\Users\Shelia\source\repos\ExpenseTracker\ExpenseTracker\bin\Debug\net8.0\Syncfusion.EJ2.dll
 C:\Users\Shelia\source\repos\ExpenseTracker\ExpenseTracker\bin\Debug\net8.0\Syncfusion.Licensing.dll
 C:\Users\Shelia\source\repos\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Shelia\source\repos\ExpenseTracker\ExpenseTracker\obj\Debug\net8.0\ExpenseTracker.sourcelink.json
